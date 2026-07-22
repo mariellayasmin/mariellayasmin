@@ -1,1 +1,1 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=F7F7F7&center=false&vCenter=false&width=435&lines=Hello%2C+my+name+is+Mariella+Yasmin;I%27m+17+years+old;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=fe019a&center=false&vCenter=false&width=435&lines=Hello%2C+my+name+is+Mariella;I%27m+17+years+old;Be+Welcome!+%3A%29)](https://git.io/typing-svg)
